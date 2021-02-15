@@ -124,6 +124,9 @@ public class Plants {
    void PrintName(){
         System.out.println("Name: " + this.Name);
     }
+    void PrintKind(){
+        System.out.println("Kind: " + this.Kind);
+    }
    void PrintPrice(){
        System.out.println(this.Price);
    }

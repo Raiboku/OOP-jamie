@@ -58,6 +58,7 @@ public class Mainplant {
         
         animal.PrintName();
         animal.PrintType();
+        animal.PrintKind();
         
         System.out.println(" ");
         System.out.println("Overidechuchu:-----------");

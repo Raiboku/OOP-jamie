@@ -17,5 +17,9 @@ public class SUPEEEEER extends Plants{
     }
     
    
-   
+   class Super {
+       void printName() {
+           System.out.println("mane");
+       }
+   }
 }

@@ -13,7 +13,7 @@ public class Mainplant {
     
     public static void main(String[] args){
         
-        SUPEEEEER animal = new SUPEEEEER();
+        Plants animal = new SUPEEEEER();
         
         animal.Kind1 = "Cilantro";
         animal.Name1 = "Coriandrum Sativum";

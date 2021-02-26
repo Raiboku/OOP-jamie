@@ -17,17 +17,17 @@ public class GenMath extends javax.swing.JFrame {
      */
     
     
-    double num1, num2, num3, num4, num5, num6, ans1, ans2, ans3, ans4, ans5, ans6;
-    int expo1, expo2, expo3, expo4, incre1, y1, y2, res1, res2, res3, res4, res5, res6, res7, res8, lim5;
+    double num1, num2, num3, num4, num5, num6, ans1, ans2, ans3, ans4, ans5, ans6, incre1, y1, y2, res1, res2, res3, res4, res5, res6, res7, res8;
+    int expo1, expo2, expo3, expo4;
     
     public GenMath() {
         initComponents();
     }
     public void alge(){
         
-        incre1 = Integer.parseInt(incre.getText());
-        y1 = Integer.parseInt(x1.getText());
-        y2 = Integer.parseInt(x2.getText());
+        incre1 = Double.parseDouble(incre.getText());
+        y1 = Double.parseDouble(x1.getText());
+        y2 = Double.parseDouble(x2.getText());
         num1 = Double.parseDouble(Term5.getText());
         num2 = Double.parseDouble(Term4.getText());
         num3 = Double.parseDouble(Term3.getText());
@@ -42,7 +42,7 @@ public class GenMath extends javax.swing.JFrame {
         
         
         
-        for (int i = y1; i <= y2; i = i + incre1 ) {
+        for (double i = y1; i <= y2; i = i + incre1 ) {
             
         res1 = i;
         res2 = i;

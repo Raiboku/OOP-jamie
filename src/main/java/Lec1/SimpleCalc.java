@@ -24,6 +24,8 @@ public class SimpleCalc extends javax.swing.JFrame {
         initComponents();
         
         jRadioButton1.setEnabled(false);
+        
+        this.setBounds(534,160,287,443);
     }
     
     public void arithmetic_operation(){
@@ -606,7 +608,6 @@ public class SimpleCalc extends javax.swing.JFrame {
         arithmetic_operation();
         Answer.setText(Inputnum.getText());
         Inputnum.setText(" ");
-       
     }//GEN-LAST:event_jButton12ActionPerformed
 
     private void jButton15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton15ActionPerformed

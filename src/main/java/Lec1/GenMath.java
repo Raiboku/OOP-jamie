@@ -24,6 +24,7 @@ public class GenMath extends javax.swing.JFrame {
         initComponents();
         this.setBounds(424,200,509,347);
     }
+    
     public void alge(){
         
         incre1 = Double.parseDouble(incre.getText());

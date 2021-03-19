@@ -1,0 +1,52 @@
+------Reciept------
+
+Name: Crister Date of Purchase: March 16, 2021
+
+-------------------
+
+You have purchased: 
+
+Full Dive VR head gear:----- $600.67 --- 1 pcs.
+A.R. Glasses:--------------- $300.50 --- 0 pcs.
+V.R. Glasses:--------------- $450.25 --- 0 pcs.
+V.R. Tech suit:------------- $570.48 --- 0 pcs.
+Omni-Directional Treadmill:- $790.37 --- 0 pcs.
+
+
+Total: $ 600.67
+Payment: $ 1000.0
+Change: $ 399.33000000000004
+
+-------------------
+
+Total income: $ 600.67
+
+-------------------
+
+
+------Reciept------
+
+Name: YeahDate of Purchase: March 17 2021
+
+-------------------
+
+You have purchased: 
+
+Full Dive VR head gear:----- $600.67 --- 0 pcs.
+A.R. Glasses:--------------- $300.50 --- 1 pcs.
+V.R. Glasses:--------------- $450.25 --- 0 pcs.
+V.R. Tech suit:------------- $570.48 --- 0 pcs.
+Omni-Directional Treadmill:- $790.37 --- 0 pcs.
+
+
+Total: $ 300.5
+Payment: $ 500.0
+Change: $ 199.5
+
+-------------------
+
+Total income: $ 901.17
+
+-------------------
+
+
